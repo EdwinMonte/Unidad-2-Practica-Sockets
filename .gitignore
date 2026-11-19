@@ -1,0 +1,17 @@
+# .NET / C#
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Java
+*.class
+*.jar
+*.log
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
