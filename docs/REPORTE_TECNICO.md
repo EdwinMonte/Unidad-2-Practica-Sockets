@@ -5,7 +5,7 @@
 <div align="center">
 
 **TECNOLÓGICO NACIONAL DE MÉXICO**  
-**[Nombre del Instituto Tecnológico / Campus]**  
+**Tecnológico Campus Monclova**  
 
 **Carrera:** Ingeniería en Informática / Licenciatura en Informática  
 **Asignatura:** Programación en Ambiente Cliente/Servidor  
@@ -14,14 +14,14 @@
 *Comunicación mediante Sockets TCP/IP, Concurrencia e Interoperabilidad (.NET 10 y Java)*
 
 **Presenta:**  
-[Nombre Completo del Estudiante]  
-No. de Control: [Número de Control]  
+Edwin Montemayor Medrano  
+No. de Control: I23050348  
 
 **Docente:**  
-[Nombre del Docente]  
+Ruben Miguel Riojas  
 
-**Lugar y Fecha:**  
-[Ciudad, Estado], [Fecha de Entrega]
+**Fecha:**  
+3 de octubre del 2026
 
 </div>
 
